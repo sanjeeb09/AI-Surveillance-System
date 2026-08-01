@@ -147,4 +147,4 @@ streamlit run dashboard.py
 
 M.Sc. Data Science
 
-GitHub: [https://github.com/sanjeeb09]
+GitHub: [Sanjeeb Sahoo](https://github.com/sanjeeb09)

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PyTorch cache
+*.pt
+
+# Python cache
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Streamlit Skills
+.agents/

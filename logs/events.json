@@ -1,0 +1,11 @@
+[
+    {
+        "time": "2026-08-01 23:48:17",
+        "people": 1,
+        "confidence": 0.87,
+        "audio": 1.0,
+        "fusion": 0.76,
+        "status": "SUSPICIOUS",
+        "clip": "clips/incident_20260801_234817.mp4"
+    }
+]
